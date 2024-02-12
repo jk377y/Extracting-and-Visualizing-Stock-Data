@@ -6,12 +6,12 @@
 
 Tesla Graph
 <br>
-<img src="Question 5.PNG" alt="Tesla graph" width=600/>
+<img src="5.PNG" alt="Tesla graph" width=600/>
 <br>
 <br>
 GameStop Graph
 <br>
-<img src="Question 6.PNG" alt="GameStop graph" width=600/>
+<img src="6.PNG" alt="GameStop graph" width=600/>
 
 
 ## *Contact Me*
