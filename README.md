@@ -11,7 +11,7 @@ Tesla Graph
 <br>
 GameStop Graph
 <br>
-<img src="Question 6.PNG" alt="GameStop graph" width=600/>
+<img src="Question6.PNG" alt="GameStop graph" width=600/>
 
 
 ## *Contact Me*
